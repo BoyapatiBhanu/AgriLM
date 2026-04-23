@@ -56,10 +56,10 @@ Structured Output + Confidence
 
 ## 📂 Project Structure
 
-
+```bash
 AgriLM/
 │
-├── app.py # Streamlit UI
+├── app.py # Streamlit UI 
 ├── main.py # CLI interface
 ├── config.py # Hyperparameters
 ├── build_index.py # FAISS index builder
@@ -84,8 +84,7 @@ AgriLM/
 │ ├── index.faiss
 │ ├── metadata.pkl
 
-
----
+```
 
 ## 📊 Datasets Used
 
